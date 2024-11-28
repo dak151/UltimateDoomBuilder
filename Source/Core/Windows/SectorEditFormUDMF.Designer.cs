@@ -360,6 +360,7 @@
 			// label9
 			// 
 			label9.AutoSize = true;
+			label9.AutoSize = true;
 			label9.Location = new System.Drawing.Point(21, 51);
 			label9.Name = "label9";
 			label9.Size = new System.Drawing.Size(59, 13);
@@ -387,6 +388,7 @@
 			// 
 			// label2
 			// 
+			label2.AutoSize = true;
 			label2.Location = new System.Drawing.Point(9, 79);
 			label2.Name = "label2";
 			label2.Size = new System.Drawing.Size(74, 14);
