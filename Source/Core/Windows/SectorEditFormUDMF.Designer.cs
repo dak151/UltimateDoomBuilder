@@ -449,6 +449,7 @@
 			// 
 			// label15
 			// 
+			label15.AutoSize = true;
 			label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			label15.ForeColor = System.Drawing.SystemColors.HotTrack;
 			label15.Location = new System.Drawing.Point(9, 83);
