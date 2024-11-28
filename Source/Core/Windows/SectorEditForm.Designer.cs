@@ -180,7 +180,8 @@ namespace CodeImp.DoomBuilder.Windows
             // 
             // label7
             // 
-            label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            label7.AutoSize = true;
+   	    label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             label7.ForeColor = System.Drawing.SystemColors.HotTrack;
             label7.Location = new System.Drawing.Point(16, 100);
             label7.Name = "label7";
