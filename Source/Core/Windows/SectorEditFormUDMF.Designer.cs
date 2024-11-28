@@ -613,6 +613,7 @@
 			// 
 			// label13
 			// 
+			label13.AutoSize = true;
 			label13.Location = new System.Drawing.Point(35, 83);
 			label13.Name = "label13";
 			label13.Size = new System.Drawing.Size(74, 14);
