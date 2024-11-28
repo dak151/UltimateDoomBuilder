@@ -558,6 +558,7 @@
 			// 
 			// label17
 			// 
+			label17.AutoSize = true;
 			label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			label17.ForeColor = System.Drawing.SystemColors.HotTrack;
 			label17.Location = new System.Drawing.Point(10, 51);
@@ -573,6 +574,7 @@
 			// 
 			// label16
 			// 
+			label16.AutoSize = true;
 			label16.Location = new System.Drawing.Point(10, 23);
 			label16.Name = "label16";
 			label16.Size = new System.Drawing.Size(74, 14);
@@ -583,6 +585,7 @@
 			// 
 			// label18
 			// 
+			label18.AutoSize = true;
 			label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			label18.ForeColor = System.Drawing.SystemColors.HotTrack;
 			label18.Location = new System.Drawing.Point(10, 81);
@@ -595,6 +598,7 @@
 			// 
 			// label19
 			// 
+			label19.AutoSize = true;
 			label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			label19.ForeColor = System.Drawing.SystemColors.HotTrack;
 			label19.Location = new System.Drawing.Point(10, 111);
