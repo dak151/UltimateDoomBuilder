@@ -81,7 +81,8 @@ namespace CodeImp.DoomBuilder.Windows
             // 
             // label1
             // 
-            label1.Location = new System.Drawing.Point(13, 27);
+            label1.AutoSize = true;
+	    label1.Location = new System.Drawing.Point(13, 27);
             label1.Name = "label1";
             label1.Size = new System.Drawing.Size(110, 14);
             label1.TabIndex = 5;
