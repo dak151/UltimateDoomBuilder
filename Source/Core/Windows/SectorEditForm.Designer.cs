@@ -203,7 +203,8 @@ namespace CodeImp.DoomBuilder.Windows
             // 
             // label6
             // 
-            label6.Location = new System.Drawing.Point(16, 40);
+            label6.AutoSize = true;
+	    label6.Location = new System.Drawing.Point(16, 40);
             label6.Name = "label6";
             label6.Size = new System.Drawing.Size(78, 14);
             label6.TabIndex = 19;
