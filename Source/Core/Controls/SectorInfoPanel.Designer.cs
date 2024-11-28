@@ -126,6 +126,7 @@ namespace CodeImp.DoomBuilder.Controls
 			// 
 			// label5
 			// 
+            		label5.AutoSize = true;
 			label5.Location = new System.Drawing.Point(8, 64);
 			label5.Name = "label5";
 			label5.Size = new System.Drawing.Size(44, 14);
