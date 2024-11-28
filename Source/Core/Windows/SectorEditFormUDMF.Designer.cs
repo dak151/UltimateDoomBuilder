@@ -462,6 +462,7 @@
 			// 
 			// label6
 			// 
+			label6.AutoSize = true;
 			label6.Location = new System.Drawing.Point(9, 23);
 			label6.Name = "label6";
 			label6.Size = new System.Drawing.Size(74, 14);
